@@ -1,5 +1,9 @@
 # Setup
 
+This Docker env is made from [drupal-docker-env](https://github.com/s-lavielle/drupal-docker-env) and intend to be used
+to develop [Drupal Nuclia Search API module](https://git.drupalcode.org/project/search_api_nuclia) and [Nuclia PHP client library](https://github.com/makinacorpus/nucliadb-php-client).
+
+
 ## Pull from GitHub
   ```
   git clone git@github.com:s-lavielle/nuclia-drupal-dev-env.git <my-project-dir>
